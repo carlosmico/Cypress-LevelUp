@@ -1,0 +1,14 @@
+{
+  "name": "levelup1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "author": "Manuel S. Lemos",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^3.8.2"
+  }
+}

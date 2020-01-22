@@ -1,0 +1,24 @@
+Qué es GeeksHubs
+Desarrollador 360º
+Hambre y Ganas
+Conocemos la Industria
+Conocemos a los Estudiantes (Esquema)
+Simulación Laboral
+
+
+
+
+Ejemplos Reales
+    -> Testear un Boli
+    -> Testear Google
+
+1.- Install VS Code
+2.- Install NodeJS & NPM
+
+3.- npm init
+4.- install cypress --save-dev
+5.- modificar package.json "test: cypress open"
+6.- descargar tutorial "Ok, got it!"
+
+7.- mkdir google
+8.- touch geekshubs.spec.js
